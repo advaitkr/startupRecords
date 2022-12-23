@@ -4,6 +4,7 @@ import Emplisting from './Emplisting';
 import EmpEdit from './EmpEdit';
 import EmpDetails from './EmpDetails';
 import Search from './Search';
+import { MDBPagination,MDBPPaginationItem,MDBPaginationLink } from 'mdb-react-ui-kit';
 function App() {
   return (
     <div className='App'>
